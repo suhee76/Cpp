@@ -7,7 +7,7 @@
 using namespace std;
 
 int main() {
-	cout << "±×·¡ÇÈ ¿¡µðÅÍÀÔ´Ï´Ù." << endl;
+	cout << "그래픽 에디터입니다." << endl;
 	GraphicEditor* gEditor = new GraphicEditor();
 	gEditor->printt();
 
